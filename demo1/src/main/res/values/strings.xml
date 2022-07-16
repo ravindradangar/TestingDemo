@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">demo1</string>
+    <string-array name="countries">
+        <item>India1</item>
+        <item>India2</item>
+        <item>India3</item>
+        <item>India4</item>
+        <item>India5</item>
+        <item>India6</item>
+    </string-array>
+</resources>
